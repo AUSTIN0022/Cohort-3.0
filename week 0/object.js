@@ -12,7 +12,7 @@ let user = {
 
 greet(user);
 
-/* Assignment #2
+/* Assignment #2 & #3
 Write a function that takes a new object as input which has name , age  and gender and greets the user with their gender (Hi Mr/Mrs/Others harkirat, your age is 21)
 */
 function greet2(user){
